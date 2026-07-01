@@ -1,0 +1,3 @@
+polymorphism -> polymorphism means one name multiple forms 
+two types of polymorphism -> compile time polymorphism and run time polymorphism 
+
